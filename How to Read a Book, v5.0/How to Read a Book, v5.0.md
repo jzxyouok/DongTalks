@@ -4,7 +4,7 @@
 
 
 
-How can you learn the most from a book — or any other piece of writing — when you're readingfor information, rather than for pleasure?
+How can you learn the most from a book — or any other piece of writing — when you're reading for information, rather than for pleasure?
 
 It’s satisfying to start at the beginning and read straight through to the end. Some books, such asnovels, have to be read this way, since a basic principle of fiction is to hold the reader insuspense. Your whole purpose in reading fiction is to follow the writer’s lead, allowing him orher to spin a story bit by bit.
 
@@ -266,26 +266,16 @@ When taking notes about something you're reading (as opposed to marking up the t
 
 
 
-## Use a citation manager
+## Use a citation manager(fix needed below)
+
+- x title to be studied
 
 
 
-It's hard to overemphasize the huge advantages of citation manager software such as 
-Endnote, Bookends, Zotero, Mendeley, CiteULike, etc. They let you keep track of your 
-growing library, easily enter and format citations in your word processor (saving you the 
-incredible irritation of doing it yourself). Most of them can pull in citations directly from the 
-web, record web links, find DOI’s, and so on. Some have their own web search tools built in. 
-Some, such as Bookends (Mac only), will automatically rename documents with AuthorB
-DateBTitle, a huge help with the extremely annoying problem of uninformative filenames. 
+It's hard to overemphasize the huge advantages of citation manager software such as Endnote, Bookends, Zotero, Mendeley, CiteULike, etc. They let you keep track of your growing library, easily enter and format citations in your word processor (saving you the incredible irritation of doing it yourself). Most of them can pull in citations directly from the web, record web links, find DOI’s, and so on. Some have their own web search tools built in. Some, such as Bookends (Mac only), will automatically rename documents with AuthorB DateBTitle, a huge help with the extremely annoying problem of uninformative filenames. 
 
 
 
-None of these packages are perfect. All have both advantages and disadvantages, and the 
-more sophisticated ones have steep learning curves. Look for one that can handle all major 
-document formats, including books, journal articles, newspaper articles, online sources, 
-interviews, and so on. Be wary of managers that only handle PDFs, since so many other 
-formats are still important. 
+None of these packages are perfect. All have both advantages and disadvantages, and the more sophisticated ones have steep learning curves. Look for one that can handle all major document formats, including books, journal articles, newspaper articles, online sources, interviews, and so on. Be wary of managers that only handle PDFs, since so many other formats are still important. 
 
-If you use the notes field of your citation manager in a disciplined way, your notes will 
-always be easy to find. When your library starts reaching into the thousands of items, this is 
-a godsend.  
+If you use the notes field of your citation manager in a disciplined way, your notes will always be easy to find. When your library starts reaching into the thousands of items, this is a godsend.  
