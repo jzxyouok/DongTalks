@@ -30,7 +30,7 @@ What you can do is remember and record the main points. And if you remember thos
 
 
 
-Table 1. Summary of reading strategies and techniques
+### Table 1. Summary of reading strategies and techniques
 
 | Strategies and techniques                | Rationale                                |
 | ---------------------------------------- | ---------------------------------------- |
