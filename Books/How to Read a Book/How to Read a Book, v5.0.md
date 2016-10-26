@@ -6,17 +6,17 @@
 
 How can you learn the most from a book — or any other piece of writing — when you're reading for information, rather than for pleasure?
 
-It’s satisfying to start at the beginning and read straight through to the end. Some books, such asnovels, have to be read this way, since a basic principle of fiction is to hold the reader insuspense. Your whole purpose in reading fiction is to follow the writer’s lead, allowing him orher to spin a story bit by bit.
+It’s satisfying to start at the beginning and read straight through to the end. Some books, such as novels, have to be read this way, since a basic principle of fiction is to hold the reader in suspense. Your whole purpose in reading fiction is to follow the writer’s lead, allowing him or her to spin a story bit by bit.
 
-But many of the books, articles, and other documents you’ll read during your undergraduateand graduate years, and possibly during the rest of your professional life, won’t be novels.Instead, they’ll be non-fiction: textbooks, manuals, journal articles, histories, academic studies,and so on.
+But many of the books, articles, and other documents you’ll read during your undergraduate and graduate years, and possibly during the rest of your professional life, won’t be novels. Instead, they’ll be non-fiction: textbooks, manuals, journal articles, histories, academic studies, and so on.
 
-The purpose of reading things like this is to gain, and retain, information. Here, finding out whathappens — as quickly and easily as possible — is your main goal. So unless you’re stuck in prisonwith nothing else to do, NEVER read a non-fiction book or article from beginning to end.
+The purpose of reading things like this is to gain, and retain, information. Here, finding out what happens — as quickly and easily as possible — is your main goal. So unless you’re stuck in prison with nothing else to do, NEVER read a non-fiction book or article from beginning to end.
 
-Instead, when you’re reading for information, you should ALWAYS jump ahead, skip around, anduse every available strategy to discover, then to understand, and finally to remember what thewriter has to say. This is how you’ll get the most out of a book in the smallest amount of time.
+Instead, when you’re reading for information, you should ALWAYS jump ahead, skip around, and use every available strategy to discover, then to understand, and finally to remember what the writer has to say. This is how you’ll get the most out of a book in the smallest amount of time.
 
-Using the methods described here, you should be able to read a 300-page book in six to eighthours. Of course, the more time you spend, the more you’ll learn and the better you’llunderstand the book. But your time is limited.
+Using the methods described here, you should be able to read a 300-page book in six to eight hours. Of course, the more time you spend, the more you’ll learn and the better you’ll understand the book. But your time is limited.
 
-Here are some strategies to help you do this effectively. Most of these can be applied not onlyto books, but also to any other kind of non-fiction reading, from articles to websites. Table 1, onthe next page, summarizes the techniques, and the following pages explain them in more detail.
+Here are some strategies to help you do this effectively. Most of these can be applied not only to books, but also to any other kind of non-fiction reading, from articles to websites. Table 1, on the next page, summarizes the techniques, and the following pages explain them in more detail.
 
 
 
@@ -24,9 +24,9 @@ Here are some strategies to help you do this effectively. Most of these can be a
 
 
 
-In reading to learn, your goal should always be to get all the way through the assignment.It’s much more important to have a general grasp of the arguments or hypotheses,evidence, and conclusions than to understand every detail. In fact, no matter how carefullyyou read, you won’t remember most of the details anyway.
+In reading to learn, your goal should always be to get all the way through the assignment. It’s much more important to have a general grasp of the arguments or hypotheses, evidence, and conclusions than to understand every detail. In fact, no matter how carefully you read, you won’t remember most of the details anyway.
 
-What you can do is remember and record the main points. And if you remember those, youknow enough to find the material again if you ever do need to recall the details.
+What you can do is remember and record the main points. And if you remember those, you know enough to find the material again if you ever do need to recall the details.
 
 
 
@@ -53,8 +53,6 @@ Table 1. Summary of reading strategies and techniques
 
 
 If you know in advance that you have only six hours to read, it’ll be easier to pace yourself. Remember, you’re going to read the whole book (or the whole assignment).
-
-
 
 In fact, the more directly and realistically you confront your limits, the more effective you will be at practically everything. Setting time limits and keeping to them (while accomplishing your goals) is one of the most important life skills you can learn. So never start to read without planning when to stop.
 
@@ -270,15 +268,15 @@ When taking notes about something you're reading (as opposed to marking up the t
 
 
 
-It’s hard to overemphasize the huge advantages of citation manager software such as  Endnote, Bookends, Zotero, Mendeley, CiteULike, etc. They let you keep track of your  growing library, easily enter and format citations in your word processor (saving you the  incredible irritation of doing it yourself). Most of them can pull in citations directly from the  web, record web links, find DOI’s, and so on. Some have their own web search tools built in.  Some, such as Bookends (Mac only), will automatically rename documents with AuthorB DateBTitle, a huge help with the extremely annoying problem of uninformative filenames. 
+It’s hard to overemphasize the huge advantages of citation manager software such as Endnote, Bookends, Zotero, Mendeley, CiteULike, etc. They let you keep track of your growing library, easily enter and format citations in your word processor (saving you the incredible irritation of doing it yourself). Most of them can pull in citations directly from the web, record web links, find DOI’s, and so on. Some have their own web search tools built in. Some, such as Bookends (Mac only), will automatically rename documents with AuthorB DateBTitle, a huge help with the extremely annoying problem of uninformative filenames. 
 
 
 
-None of these packages are perfect. All have both advantages and disadvantages, and the  more sophisticated ones have steep learning curves. Look for one that can handle all major  document formats, including books, journal articles, newspaper articles, online sources,  interviews, and so on. Be wary of managers that only handle PDFs, since so many other  formats are still important.
+None of these packages are perfect. All have both advantages and disadvantages, and the more sophisticated ones have steep learning curves. Look for one that can handle all major document formats, including books, journal articles, newspaper articles, online sources, interviews, and so on. Be wary of managers that only handle PDFs, since so many other formats are still important.
 
- 
 
-If you use the notes field of your citation manager in a disciplined way, your notes will  always be easy to find. When your library starts reaching into the thousands of items, this is  a godsend.
+
+If you use the notes field of your citation manager in a disciplined way, your notes will always be easy to find. When your library starts reaching into the thousands of items, this is a godsend.
 
 
 
@@ -286,15 +284,15 @@ If you use the notes field of your citation manager in a disciplined way, your n
 
 
 
-An awful lot of thinking and mental processing goes on when you’re not aware of it. Just as  with writing or any other creative thought process, full understanding of a book takes time  to develop.
+An awful lot of thinking and mental processing goes on when you’re not aware of it. Just as with writing or any other creative thought process, full understanding of a book takes time to develop.
 
 
 
-Like the body, the mind suffers from fatigure when doing just one thing for many hours.  Your ability to comprehend and retain what you read drops off dramatically after an hour or  so. Therefore, you should read a book in several short sessions of one to two hours apiece,  rather than one long marathon.
+Like the body, the mind suffers from fatigure when doing just one thing for many hours. Your ability to comprehend and retain what you read drops off dramatically after an hour or so. Therefore, you should read a book in several short sessions of one to two hours apiece, rather than one long marathon.
 
 
 
-In between, your unconscious mind will process some of what you’ve read. When you come  back for the next session, start by asking yourself what you remember from your previous  reading, what you think of it so far, and what you still need to learn.
+In between, your unconscious mind will process some of what you’ve read. When you come back for the next session, start by asking yourself what you remember from your previous reading, what you think of it so far, and what you still need to learn.
 
 
 
@@ -302,15 +300,15 @@ In between, your unconscious mind will process some of what you’ve read. When 
 
 
 
-Reading is exactly like martial arts, baseball, or cooking in the sense that **learning and  memory depend crucially on rehearsal**.
+Reading is exactly like martial arts, baseball, or cooking in the sense that **learning and memory depend crucially on rehearsal**.
 
 
 
-So — after you’ve read the book, rehearse what you’ve learned. Quiz yourself on its  contents. Argue with the author. Imagine how you would defend the author’s position in  your own writing.
+So — after you’ve read the book, rehearse what you’ve learned. Quiz yourself on its contents. Argue with the author. Imagine how you would defend the author’s position in your own writing.
 
 
 
-Reading, writing, speaking, listening, and visualizing all engage different parts of the brain.  For this reason, the best forms of rehearsal use multiple modes of thinking and action.  Don’t just contemplate privately. Instead, talk about the book with others. Bring it up in  classes. Write about it. Visualize anything that can be visualized about its contents. All of this  helps fix your memory and integrate your new learning into the rest of your knowledge.
+Reading, writing, speaking, listening, and visualizing all engage different parts of the brain. For this reason, the best forms of rehearsal use multiple modes of thinking and action. Don’t just contemplate privately. Instead, talk about the book with others. Bring it up in classes. Write about it. Visualize anything that can be visualized about its contents. All of this helps fix your memory and integrate your new learning into the rest of your knowledge.
 
 
 
@@ -318,12 +316,12 @@ Reading, writing, speaking, listening, and visualizing all engage different part
 
 
 
-When I give presentations on these ideas, students often tell me a few weeks later that they  “tried it a few times and just couldn’t do it,” so they stopped.
+When I give presentations on these ideas, students often tell me a few weeks later that they “tried it a few times and just couldn’t do it,” so they stopped.
 
 
 
-**You will have to practice** these techniques for a considerable length of time — at least a few  months — before they come to seem natural, and they will never be easier than the  comfortable, passive way we’ve all been reading for many years.
+**You will have to practice** these techniques for a considerable length of time — at least a few months — before they come to seem natural, and they will never be easier than the comfortable, passive way we’ve all been reading for many years.
 
 
 
-Hang in there. The rewards of these techniques are great, or so say the hundreds of  students who’ve told me so years later. Learning to read like this can be a critical key to a  successful career as a student, scholar, or professional in almost any field. 
+Hang in there. The rewards of these techniques are great, or so say the hundreds of students who’ve told me so years later. Learning to read like this can be a critical key to a successful career as a student, scholar, or professional in almost any field. 
